@@ -8,7 +8,7 @@ Cards được lưu tại `~/.flashcards.json`.
 
 ```bash
 # Clone về
-git clone https://github.com/YOUR_USERNAME/flashcard-cli.git
+git clone https://github.com/HaJun2026/flashcard-cli.git
 cd flashcard-cli
 
 # Python 3.8+ là đủ, không cần pip install gì thêm

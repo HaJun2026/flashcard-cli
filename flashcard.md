@@ -2,7 +2,7 @@
 
 Skill này tích hợp với CLI tool `flashcard.py` (cùng thư mục) để quản lý flashcard học tập.
 
-**Repo GitHub:** `https://github.com/YOUR_USERNAME/flashcard-cli`
+**Repo GitHub:** `https://github.com/HaJun2026/flashcard-cli`
 **Local tool:** `.claude/commands/flashcard/flashcard.py`
 
 ---
